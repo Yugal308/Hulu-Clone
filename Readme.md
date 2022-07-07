@@ -1,0 +1,1 @@
+This is a Simple Clone of Hulu website using HTML, CSS and JavaScript.
